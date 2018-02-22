@@ -1,0 +1,2 @@
+# Course-Assignments
+**UNDER CONSTRUCTION** This repository contains programming assignments from various computer science courses I've completed at Washington University in St. Louis. Its purpose is three-fold: an opportunity to keep my previous work under source code control for future reference; Second, demonstrates an overview of my technical skills; and creates perspective on skills progression.
